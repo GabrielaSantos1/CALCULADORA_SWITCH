@@ -1,4 +1,4 @@
-# Calculadora Switch C#
+# Calculadora Switch - C#
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído
 
